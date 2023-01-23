@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Pawns-Only_Chess.Pawns-Only_Chess-task-build-classes-kotlin.main" target="11" />
+      <module name="Pawns-Only_Chess.Pawns-Only_Chess-task-build-reports-tests.main" target="11" />
+      <module name="Pawns-Only_Chess.Pawns-Only_Chess-task-build-test-results.main" target="11" />
+      <module name="Pawns-Only_Chess.Pawns-Only_Chess-task-build-tmp.main" target="11" />
+      <module name="Pawns-Only_Chess.Pawns-Only_Chess-task.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Constructors-Bank_account.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Constructors-Implicit_constructor.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Constructors-Point2D.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Constructors-Theory.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Declaring_classes-New_planet.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Declaring_classes-Theory.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Default_arguments-Calculate_volume.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Default_arguments-Invocations.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Default_arguments-Polynomial.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Default_arguments-Theory.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Enum-Currencies.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Enum-Days_of_the_week.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Enum-Properties_of_Enum.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Enum-Theory.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Jumps_and_returns-Beyond_the_word.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Jumps_and_returns-Correct_jumping.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Jumps_and_returns-Theory.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Jumps_and_returns-Unique_characters.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Member_functions-Patient_needs_a_doctor.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Member_functions-Theory.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Named_arguments-Declarations.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Named_arguments-Deposit.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Named_arguments-Greeting.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Named_arguments-Theory.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Regexps-Can_you.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Regexps-Creating_regexes.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Regexps-Different_colo_u_rs.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Regexps-Help_the_teacher.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-Regexps-Theory.main" target="11" />
+      <module name="Pawns-Only_Chess.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
